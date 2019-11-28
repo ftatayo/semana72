@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SEMANA 7</string>
+    <string name="semana7">SEMANA 7</string>
+    <string name="ventana2">Main2Activity</string>
+    <string name="btn1">salir</string>
 </resources>
